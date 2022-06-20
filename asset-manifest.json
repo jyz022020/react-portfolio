@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8832ea63.css",
+    "main.js": "/static/js/main.12e3d675.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Night-Out-Planner.png": "/static/media/Night-Out-Planner.3b1653ec510e0ad0d923.png",
+    "static/media/self.jpg": "/static/media/self.f3350c9684765f5d952c.jpg",
+    "static/media/Money-Tracker.png": "/static/media/Money-Tracker.cfef4a3c3fde2c1d9cf4.png",
+    "static/media/Note-Taker.png": "/static/media/Note-Taker.7da63d5e6244be1c3e46.png",
+    "static/media/Work-Day-Scheduler.png": "/static/media/Work-Day-Scheduler.8897d0dc9ef302514026.png",
+    "static/media/Astrozod.png": "/static/media/Astrozod.a4f1ac010eb569cf7ba4.png",
+    "static/media/Weather-Dashboard.png": "/static/media/Weather-Dashboard.4e8f91c4e33749697601.png",
+    "index.html": "/index.html",
+    "static/media/resume.txt": "/static/media/resume.ad0e6035861f02b80565.txt",
+    "main.8832ea63.css.map": "/static/css/main.8832ea63.css.map",
+    "main.12e3d675.js.map": "/static/js/main.12e3d675.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8832ea63.css",
+    "static/js/main.12e3d675.js"
+  ]
+}
