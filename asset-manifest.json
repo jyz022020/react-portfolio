@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.8832ea63.css",
-    "main.js": "/react-portfolio/static/js/main.c671e9e8.js",
+    "main.css": "/react-portfolio/static/css/main.c19f5a1a.css",
+    "main.js": "/react-portfolio/static/js/main.3e99ec73.js",
     "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Night-Out-Planner.png": "/react-portfolio/static/media/Night-Out-Planner.3b1653ec510e0ad0d923.png",
     "static/media/self.jpg": "/react-portfolio/static/media/self.f3350c9684765f5d952c.jpg",
@@ -10,14 +10,16 @@
     "static/media/Work-Day-Scheduler.png": "/react-portfolio/static/media/Work-Day-Scheduler.8897d0dc9ef302514026.png",
     "static/media/Astrozod.png": "/react-portfolio/static/media/Astrozod.a4f1ac010eb569cf7ba4.png",
     "static/media/Weather-Dashboard.png": "/react-portfolio/static/media/Weather-Dashboard.4e8f91c4e33749697601.png",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.0555dbf3cc216b3dc330.pdf",
+    "static/media/linkedin.png": "/react-portfolio/static/media/linkedin.f8bef6a4be14e71a94a7.png",
+    "static/media/github-logo.png": "/react-portfolio/static/media/github-logo.80b7a51040745ac451b5.png",
     "index.html": "/react-portfolio/index.html",
-    "static/media/resume.txt": "/react-portfolio/static/media/resume.ad0e6035861f02b80565.txt",
-    "main.8832ea63.css.map": "/react-portfolio/static/css/main.8832ea63.css.map",
-    "main.c671e9e8.js.map": "/react-portfolio/static/js/main.c671e9e8.js.map",
+    "main.c19f5a1a.css.map": "/react-portfolio/static/css/main.c19f5a1a.css.map",
+    "main.3e99ec73.js.map": "/react-portfolio/static/js/main.3e99ec73.js.map",
     "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8832ea63.css",
-    "static/js/main.c671e9e8.js"
+    "static/css/main.c19f5a1a.css",
+    "static/js/main.3e99ec73.js"
   ]
 }
