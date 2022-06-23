@@ -32,6 +32,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 Project page
 <img width="1440" alt="Screen Shot 2022-06-23 at 11 23 48 AM" src="https://user-images.githubusercontent.com/97587912/175368677-350ce024-f52e-4178-b4be-442730a5d249.png">
 Leave message page
+
 <img width="622" alt="Screen Shot 2022-06-23 at 11 24 04 AM" src="https://user-images.githubusercontent.com/97587912/175368694-fcdf0ec6-c97b-4305-b7b7-faf6717da114.png">
+
 Resume page
 <img width="1384" alt="Screen Shot 2022-06-23 at 11 24 25 AM" src="https://user-images.githubusercontent.com/97587912/175368732-838b4a09-6bd6-4d1e-a356-27cd35b908f4.png">
